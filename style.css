@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: wheat;
+
+    
+}
+p{
+    font-size: x-large;
+    color:black
+}
+h1{
+    font-size: 50px;
+    color: rgba(0, 0, 255, 0.918);
+}
+h2{
+    color: rgb(255, 0, 0);
+}
+nav a{
+    text-decoration: none;
+}
+

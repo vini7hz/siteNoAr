@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: wheat;
+}
+p{
+    font-size: x-large;
+    color:black;
+
+}
+h1{
+    font-size: 50px;
+    color: rgba(255, 0, 0, 0.918);
+}
+nav a{
+    text-decoration: none;
+}
+
